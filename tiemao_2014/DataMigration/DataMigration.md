@@ -22,7 +22,7 @@ Hadoop的爆炸在过去的几年里已经成为了一种现象。 [一个估计
 
 
 
-#### 相关阅读:
+#### 相关阅读:  
 
 * [**大数据分析的8大趋势**](http://www.javaworld.com/article/2848033/big-data/8-big-trends-in-big-data-analytics.html)
 * 
